@@ -3,7 +3,6 @@
 //  TestApplication
 //
 //  Created by kanakaraju on 19/05/19.
-//  Copyright © 2019 Administrator. All rights reserved.
 //
 
 import UIKit
